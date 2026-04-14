@@ -1,6 +1,7 @@
 # Agentic Framework
 
-A comprehensive Python framework implementing **21 agentic design patterns** from "Agentic Design Patterns: A Hands-On Guide to Building Intelligent Systems."
+A comprehensive Python framework implementing **21 agentic design patterns** from the projects I participated in past 2 years.
+They can be widely reused in the future work, I will keep adding new patterns I come up with and use in the promising projects
 
 ## Features
 
